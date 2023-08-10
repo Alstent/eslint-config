@@ -1,8 +1,9 @@
 {
   "name": "@alstent/eslint-config",
-  "version": "1.0",
+  "version": "1.0.0",
   "private": false,
   "description": "ESLint configuration used by Rafael Alstent.",
+  "main": "index.js",
   "license": "MIT",
   "repository": {
     "url": "/Alstent/eslint-config"
